@@ -11,6 +11,12 @@ Users (who have access to the app), can specify items, members (who can borrow i
 
 ## Installation Instructions
 
+## install node
+brew install node
+
+## add postgres database.yml
+gem 'pg'
+
 ### Install Rails
 
 * Make sure you have a Ruby version > 2.2.2 installed in your system
